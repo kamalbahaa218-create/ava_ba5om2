@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790553829350,
+      "tag": "0000_foundation_auth_classes_permissions",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790726928630,
+      "tag": "0001_attendance_points_followup",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790900560468,
+      "tag": "0002_content_and_user_status",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791072156759,
+      "tag": "0003_revoke_anon_helper_execute",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791158570741,
+      "tag": "0004_quizzes_suggestions_private",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791245875735,
+      "tag": "0005_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791392328175,
+      "tag": "0006_tighten_permissions_settings_select",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791392422257,
+      "tag": "0007_restrict_topics_program_read",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791423410035,
+      "tag": "0008_section_new_content_indicators",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1791499752260,
+      "tag": "0009_followup_absence_streak",
+      "breakpoints": true
+    }
+  ]
+}
